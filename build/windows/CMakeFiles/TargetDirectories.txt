@@ -1,4 +1,0 @@
-/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/rebuild_cache.dir
-/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/edit_cache.dir
-/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/screenshot_tool.dir
-/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/screenshot_tool_autogen.dir
