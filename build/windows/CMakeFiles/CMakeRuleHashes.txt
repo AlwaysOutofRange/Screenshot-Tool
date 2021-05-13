@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+31b6c13686e323a5442d07f726bc2df3 CMakeFiles/screenshot_tool_autogen

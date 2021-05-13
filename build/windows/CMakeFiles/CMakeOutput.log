@@ -1,0 +1,56 @@
+The target system is: Generic -  - 
+The host system is: Linux - 5.10.34-1-MANJARO - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/i686-w64-mingw32-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/3.20.2/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/i686-w64-mingw32-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/3.20.2/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_bc519/fast && /usr/bin/make  -f CMakeFiles/cmTC_bc519.dir/build.make CMakeFiles/cmTC_bc519.dir/build
+make[1]: Verzeichnis „/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_bc519.dir/testCCompiler.c.obj
+/usr/bin/i686-w64-mingw32-gcc    -o CMakeFiles/cmTC_bc519.dir/testCCompiler.c.obj -c /home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_bc519
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bc519.dir/link.txt --verbose=1
+/usr/bin/i686-w64-mingw32-gcc CMakeFiles/cmTC_bc519.dir/testCCompiler.c.obj -o cmTC_bc519 
+make[1]: Verzeichnis „/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp“ wird verlassen
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9a659/fast && /usr/bin/make  -f CMakeFiles/cmTC_9a659.dir/build.make CMakeFiles/cmTC_9a659.dir/build
+make[1]: Verzeichnis „/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp“ wird betreten
+Building CXX object CMakeFiles/cmTC_9a659.dir/testCXXCompiler.cxx.obj
+/usr/bin/i686-w64-mingw32-g++    -o CMakeFiles/cmTC_9a659.dir/testCXXCompiler.cxx.obj -c /home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_9a659
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9a659.dir/link.txt --verbose=1
+/usr/bin/i686-w64-mingw32-g++ CMakeFiles/cmTC_9a659.dir/testCXXCompiler.cxx.obj -o cmTC_9a659 
+make[1]: Verzeichnis „/home/nico/CLionProjects/screenshot_tool/build/windows/CMakeFiles/CMakeTmp“ wird verlassen
+
+
+

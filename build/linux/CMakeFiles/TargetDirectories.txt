@@ -1,0 +1,4 @@
+/home/nico/CLionProjects/screenshot_tool/build/linux/CMakeFiles/rebuild_cache.dir
+/home/nico/CLionProjects/screenshot_tool/build/linux/CMakeFiles/edit_cache.dir
+/home/nico/CLionProjects/screenshot_tool/build/linux/CMakeFiles/screenshot_tool.dir
+/home/nico/CLionProjects/screenshot_tool/build/linux/CMakeFiles/screenshot_tool_autogen.dir
